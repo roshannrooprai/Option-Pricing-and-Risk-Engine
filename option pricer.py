@@ -180,5 +180,3 @@ class EuropeanOption:
 ...     # 5. Plot
 ...     opt.plot_greeks_surface('Delta')
 ...     # opt.plot_greeks_surface('Gamma')
-...     
-SyntaxError: multiple statements found while compiling a single statement
