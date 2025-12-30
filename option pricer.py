@@ -177,7 +177,7 @@ class EuropeanOption:
 ...     print(f"Market Price: ${market_price}")
 ...     print(f"Implied Vol:  {imp_vol:.2%}")
 ...     
-...     # 5. Plot (Uncomment to see)
+...     # 5. Plot
 ...     opt.plot_greeks_surface('Delta')
 ...     # opt.plot_greeks_surface('Gamma')
 ...     
